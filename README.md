@@ -1,7 +1,7 @@
 Hi 👋 My name is Chafik Ghourabi
 ================================
 
-Mobile Developper
+Mobile Developer
 -----------------
 
 * 🌍  I'm based in Sousse, Tunisia
